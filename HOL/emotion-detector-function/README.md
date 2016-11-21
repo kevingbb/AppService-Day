@@ -116,7 +116,7 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
 ...
 ```
 
-Now go to [this code file](https://github.com/kevingbb/App-Service-Day/blob/master/HOL/emotion-detector-function/Code/EmotionDetector.csx), copy the code and replace everything in the **Code** window. Then click **Save** and see in the Logs section if it compiled without errors.
+Now go to [this code file](https://github.com/kevingbb/AppService-Day/blob/master/HOL/emotion-detector-function/Code/EmotionDetector.csx), copy the code and replace everything in the **Code** window. Then click **Save** and see in the Logs section if it compiled without errors.
 
 The API will now run every time someone invokes it via HTTP request. But it's not ready yet! We are missing configuration.
 

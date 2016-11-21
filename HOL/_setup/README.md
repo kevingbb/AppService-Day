@@ -74,7 +74,7 @@ _Install Microsoft Azure PowerShell_
 
 ### Clone or download content of this GitHub repository (optional but recommended)
 
-The labs provided have a combination of text documentation and sample code. In order to have all documentation and all necessary sample files locally on your computer, we strongly recommend you to clone (using [Git](http://git-scm.com/)) or [download](https://github.com/kevingbb/App-Service-Day/archive/master.zip) all content in this repository locally on your computer. If you download the zip archive, you will need to [unblock](http://blogs.msdn.com/b/delay/p/unblockingdownloadedfile.aspx) the zip file before extracting it.
+The labs provided have a combination of text documentation and sample code. In order to have all documentation and all necessary sample files locally on your computer, we strongly recommend you to clone (using [Git](http://git-scm.com/)) or [download](https://github.com/kevingbb/AppService-Day/archive/master.zip) all content in this repository locally on your computer. If you download the zip archive, you will need to [unblock](http://blogs.msdn.com/b/delay/p/unblockingdownloadedfile.aspx) the zip file before extracting it.
 
 Summary
 -------
