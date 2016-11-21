@@ -23,10 +23,10 @@ In this lab you will create a simple web application and deploy it to an Azure W
 
 In this lab you will create an App Service API app, deploy an ASP.NET Web API to the API app, and consume the API app from an AngularJS Web client.
 
-#### [Lab 6 - Getting started with Azure Function](get-started-with-functions) ####
+#### [Lab 6 - Getting started with Azure Functions](get-started-with-functions) ####
 
 In this lab you will create your first Azure Function, expose it as an API and consume it.
 
-#### [Lab 7 - Create an Emotion Detector Function](emotion-dtector-function) ####
+#### [Lab 7 - Create an Emotion Detector Function](emotion-detector-function) ####
 
 In this lab you will create an Emotion Detection API based on Azure Functions and Microsoft Cognitive Services.

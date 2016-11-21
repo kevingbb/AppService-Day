@@ -4,7 +4,7 @@ During this workshop you will learn how to create an emotion detection API based
 
 This lab includes the following sections:
 
-* [Create a Function from the quickstart](#create-resources)
+* [Create Resources](#create-resources)
 * [Create API](#create-api)
 * [Configure API](#configure-api)
 
@@ -162,18 +162,16 @@ Calls to Cognitive Services will now work. But we need to set up one more thing 
 
 5. Click **Save** 
 
-The API is now properly configured and ready to be called.
-
 <a name="consume-api"></a>
 ## Consume API
 
-Let's test out the API.
+The API is now properly configured and ready to be called, let's test it out.
 
 1. Open up your favourite API tool such as [Postman](https://www.getpostman.com/apps).
 
 2. Find the Post URL and input it into the API tool:
 
-	![Function App Url](./images/function-app-url.png)
+	![Function App Url](Images/function-app-url.png)
 
     _Function App Url_
 
@@ -188,6 +186,7 @@ Let's test out the API.
 
 5. Test the API, the output should look something like the following:
 
+```JSON
 [
   {
     "faceRectangle": {
@@ -208,3 +207,5 @@ Let's test out the API.
     }
   }
 ]
+...
+```
